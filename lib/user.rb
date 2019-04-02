@@ -13,5 +13,5 @@ class User
   def knowledge
     @knowledge
   end
-  
+
 end
